@@ -1,0 +1,24 @@
+﻿@using BLL.DTO;
+@model SubjectDTO;
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Изменить</title>
+	<link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body>
+	@Html.Partial("~/Views/nav.cshtml")
+	<div class="wrap">
+	@using (Html.BeginForm()) {
+		<br />
+		@Html.LabelFor(m => m.Name, "Название предмета")
+		<br />
+		@Html.TextBoxFor(m => m.Name, new{required="required"})
+		<br />
+		<input type="submit" value="Изменить" />
+	}
+	</div>s
+</body>
+</html>

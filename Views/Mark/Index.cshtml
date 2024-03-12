@@ -1,0 +1,58 @@
+﻿@using BLL.DTO;
+@*@model List<MarkDTO>*@
+@model BLL.DTO.MarkDTO
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Главная</title>
+	<link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body>
+	@Html.Partial("~/Views/nav.cshtml")
+	<h2>Оценки:</h2>
+	<div class="wrap">
+	<table>
+		<thead>
+			<tr>
+				<th>Студент</th>
+				<th>Предмет</th>
+				<th>Оценка</th>
+				<th>Дата</th>
+			</tr>
+		</thead>
+		<tbody>
+			@{
+				foreach (var s in ViewBag.marks) {
+					<tr>
+						<td>@s.Student.FullName</td>
+						<td>@s.Subject.Name</td>
+						<td>@s.Score</td>
+						<td>@s.Date</td>
+						<td>
+							<a class="edit" href="/Mark/Edit?id=@s.Id">Изменить</a>
+							<form action="/Mark/Delete/@s.Id" method="POST" style="display:inline;">
+								<input type="submit" value="Удалить" />
+							</form>
+						</td>
+					</tr>
+				}
+			}
+		</tbody>
+	</table>
+	<h2>Фильтр</h2>
+	@using (Html.BeginForm()) {
+		<label>Выберите студента</label>
+		<br />
+		@Html.DropDownListFor(model => model.StudentId, ViewBag.Students as SelectList)
+		<br />
+		<label>Выберите предмет</label>
+		<br />
+		@Html.DropDownListFor(model => model.SubjectId, ViewBag.Subjects as SelectList)
+		<br />
+		<input type="submit" value="Применить">
+	}
+	</div>
+</body>
+</html>

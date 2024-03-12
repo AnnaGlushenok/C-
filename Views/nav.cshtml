@@ -1,0 +1,28 @@
+﻿<nav class="navbar ">
+	<ul class="nav-list">
+		<li>
+			@Html.ActionLink("Студенты", "Index" , "Student", null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Предметы", "Index" , "Subject", null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Оценки", "Index" , "Mark" , null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Создать нового студента", "Create" , "Student", null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Создать новый предмет", "Create" , "Subject", null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Поставить оценку", "Create" , "Mark" , null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Войти", "Login" , "Auth" , null, new {@class="nav-link"})
+		</li>
+		<li>
+			@Html.ActionLink("Зарегаться", "Reg" , "Auth" , null, new {@class="nav-link"})
+		</li>
+	</ul>
+</nav>

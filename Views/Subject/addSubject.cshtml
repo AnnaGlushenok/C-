@@ -1,0 +1,22 @@
+﻿@model BLL.DTO.SubjectDTO
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Добавить</title>
+	<link href="~/css/style.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body>
+	@Html.Partial("~/Views/nav.cshtml")
+	<div class="wrap">
+	@using (Html.BeginForm()) {
+		@Html.LabelFor(model => model.Name, "Название предмета")
+		<br />
+		@Html.TextBoxFor(model => model.Name, new{required="required"})
+		<br />
+		<input type="submit" value="Добавить" />
+	}
+	</div>
+</body>
+</html>
