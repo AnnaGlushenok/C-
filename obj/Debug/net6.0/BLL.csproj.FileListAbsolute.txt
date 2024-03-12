@@ -1,0 +1,115 @@
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\LABS\ИГИл\lab2\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\LABS\ИГИл\lab2\BLL\bin\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\lab2\BLL\bin\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\lab2\BLL\bin\Debug\net6.0\DAL.dll
+D:\LABS\ИГИл\lab2\BLL\bin\Debug\net6.0\DAL.pdb
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\lab2\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.dll
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.pdb
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\DAL.dll
+D:\ИГИл\l2\BLL\bin\Debug\net6.0\DAL.pdb
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.dll
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.pdb
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\ИГИл\l2\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\DAL.dll
+D:\LABS\ИГИл\l2\BLL\bin\Debug\net6.0\DAL.pdb
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+D:\LABS\ИГИл\l2\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\annas\Desktop\l2\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\annas\Desktop\l2\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\annas\OneDrive\Рабочий стол\l2\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\DAL.dll
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\DAL.pdb
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.dll
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.pdb
+D:\LABS\ИГИл\lab3\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.dll
+D:\ИГИл\lab3\BLL\bin\Debug\net6.0\BLL.pdb
+D:\ИГИл\lab3\BLL\bin\Debug\net6.0\DAL.dll
+D:\ИГИл\lab3\BLL\bin\Debug\net6.0\DAL.pdb
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.dll
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\BLL.pdb
+D:\ИГИл\lab3\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\auth.dll
+D:\LABS\ИГИл\lab3\BLL\bin\Debug\net6.0\auth.pdb
